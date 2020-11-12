@@ -1,4 +1,4 @@
-package com.tao.workshop.day02;
+package com.tao.workshop.day02.sources;
 
 import org.apache.flink.streaming.api.datastream.DataStreamSource;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;

@@ -1,4 +1,4 @@
-package com.tao.workshop.day02;
+package com.tao.workshop.day02.sources;
 
 import org.apache.flink.api.common.typeinfo.Types;
 import org.apache.flink.api.java.tuple.Tuple2;

@@ -1,4 +1,4 @@
-package com.tao.workshop.day02;
+package com.tao.workshop.day02.sources;
 
 import org.apache.flink.api.common.serialization.SimpleStringSchema;
 import org.apache.flink.streaming.api.datastream.DataStream;
